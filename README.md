@@ -128,9 +128,9 @@ ${\displaystyle \cos \alpha -\cos \beta =-2\sin {\alpha +\beta \over 2}\sin {\al
 
 万能公式
 
-${\displaystyle \sin{x}=\frac{2t}{1+t^2}$
+$\displaystyle \sin{x}=\frac{2t}{1+t^2}$
 
-${\displaystyle \cos{x}=\frac{1-t^2}{1+t^2}$
+$\displaystyle \cos{x}=\frac{1-t^2}{1+t^2}$
 
 ${\displaystyle \tan{x}=\frac{2t}{1-t^2}}$
 
