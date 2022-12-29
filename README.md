@@ -128,7 +128,7 @@ ${\displaystyle \cos \alpha -\cos \beta =-2\sin {\alpha +\beta \over 2}\sin {\al
 
 万能公式
 
-$\sin{x}=\frac{2t}{1+t^2}\\ \cos{x}=\frac{1-t^2}{1+t^2}\\ \tan{x}=\frac{2t}{1-t^2}\\ x=2\arctan{t}\\$
+${\sin{x}=\frac{2t}{1+t^2}\\ \cos{x}=\frac{1-t^2}{1+t^2}\\ \tan{x}=\frac{2t}{1-t^2}\\ x=2\arctan{t}\\}$
 
 ### 导数工具部分
 
