@@ -3,6 +3,8 @@
 
 ![cmc](https://github.com/Iamnotphage/CMC-SpeedRun/blob/main/images/cmc.png)
 
+[toc]
+
 # 读者须知
 本文适用于国内准大一、大一、大二对CMC(全国大学生数学竞赛)或其他类似竞赛有准备需要的学生。
 
@@ -21,3 +23,8 @@
 
 离散数学总评95
 ![离散](https://github.com/Iamnotphage/CMC-SpeedRun/blob/main/images/lisan.png)
+
+大二参加第十四届全国大学生数学竞赛,初赛66分一等奖。
+
+
+张贴在此处以增加信服力。
