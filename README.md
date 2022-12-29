@@ -1,4 +1,3 @@
-[toc]
 # CMC-SpeedRun
 速通[全国大学生数学竞赛](http://www.cmathc.cn/)教程
 
@@ -24,6 +23,5 @@
 ![离散](https://github.com/Iamnotphage/CMC-SpeedRun/blob/main/images/lisan.png)
 
 大二参加第十四届全国大学生数学竞赛,初赛66分一等奖。
-
 
 张贴在此处以增加信服力。
