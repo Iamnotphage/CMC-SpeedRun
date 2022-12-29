@@ -1,9 +1,8 @@
+[toc]
 # CMC-SpeedRun
 速通[全国大学生数学竞赛](http://www.cmathc.cn/)教程
 
 ![cmc](https://github.com/Iamnotphage/CMC-SpeedRun/blob/main/images/cmc.png)
-
-[toc]
 
 # 读者须知
 本文适用于国内准大一、大一、大二对CMC(全国大学生数学竞赛)或其他类似竞赛有准备需要的学生。
