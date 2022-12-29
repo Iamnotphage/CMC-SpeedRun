@@ -6,7 +6,7 @@
 
 # 编者情况
 高考数学全国一卷120(并非你想的那么高) 
-![高考只考了120](https://github.com/Iamnotphage/CMC-SpeedRun/blob/main/images/gaokao.png)
+![高考只考了120](https://github.com/Iamnotphage/CMC-SpeedRun/blob/main/images/gaokao1.png)
 高数上总评98 
 ![高数1](https://github.com/Iamnotphage/CMC-SpeedRun/blob/main/images/gaoshu1.png)
 高数下总评98 
