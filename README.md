@@ -11,7 +11,7 @@
 ![高数1](https://github.com/Iamnotphage/CMC-SpeedRun/blob/main/images/gaoshu1.png)
 高数下总评98 
 ![高数2](https://github.com/Iamnotphage/CMC-SpeedRun/blob/main/images/gaoshu2.png)
-线代总评97 
+线代总评97
 ![线代](https://github.com/Iamnotphage/CMC-SpeedRun/blob/main/images/xiandai.png)
 离散数学总评95
 ![离散](https://github.com/Iamnotphage/CMC-SpeedRun/blob/main/images/lisan.png)
