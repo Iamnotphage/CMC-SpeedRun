@@ -351,7 +351,7 @@ $\int_{a}^{b}f(x)g(x)dx=f(\epsilon)\int_{a}^{b}g(x)dx$
 
 $y''+p(x)y'+q(x)y=0$
 
-已知一个特解$y_1$,则另一个线性无关的特解为$y_2=y_1\int{\frac{1}{y_1^2}e^{-\int{p(x)dx}}}dx$
+已知一个特解$y_1$,则另一个线性无关的特解为$$y_2=y_1\int{\frac{1}{y_1^2}e^{-\int{p(x)dx}}}dx$$
 
 证明：
 
