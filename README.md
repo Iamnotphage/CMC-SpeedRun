@@ -192,7 +192,14 @@ $arctanx+arctan\frac{1}{x}=\frac{\pi}{2}$
 $x_n$
 收敛的充分必要条件是：
 
-对于任意给定的正数$\epsilon$,存在正整数${\\N}$,使得当$m>N,n>N$时，有$\\|x_n-x_m|<\epsilon$
+对于任意给定的正数
+$\epsilon$
+,存在正整数
+${\\N}$
+,使得当
+$m>N,n>N$
+时，有
+$\\|x_n-x_m|<\epsilon$
 
 
 #### **Cauthy极限公式**
