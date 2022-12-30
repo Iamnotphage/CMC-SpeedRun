@@ -295,7 +295,7 @@ $\lim\limits_{n\rightarrow\infty}{\frac{e^nn!}{n^n\sqrt{n}}}=\sqrt{2\pi}$
 $n\rightarrow+\infty$
 时，有
 
-$\ln n < n^{\alpha} < n^{\beta}<a^n<n!<n^n$
+$\lnn<n^{\alpha}<n^{\beta}<a^n<n!<n^n$
 
 $(0<\alpha<\beta, a>1)$
 
