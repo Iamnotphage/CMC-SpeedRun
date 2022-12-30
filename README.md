@@ -195,11 +195,11 @@ $x_n$
 对于任意给定的正数
 $\epsilon$
 ,存在正整数
-${\\N}$
+${\N}$
 ,使得当
 $m>N,n>N$
 时，有
-$\\|x_n-x_m|<\epsilon$
+$\|x_n-x_m|<\epsilon$
 
 
 #### **Cauthy极限公式**
