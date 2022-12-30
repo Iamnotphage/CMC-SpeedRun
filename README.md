@@ -329,7 +329,7 @@ $f'(x)=\alpha$
 ,
 $f'(x)=\beta$
 ,则
-$\exist\xi\in(a,b)$
+$\exists\xi\in(a,b)$
 使
 $f'(\xi)$
 介于
