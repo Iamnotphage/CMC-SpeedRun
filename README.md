@@ -212,7 +212,7 @@ $\lim\limits_{n\rightarrow\infty}{\frac{a_1+a_2+...+a_n}{n}}=A$
 #### **奥特曼法**
 百度贴吧流传已久的一种求极限方法，其本质是“抓大头”，也就是变化最快的一个。数学语言描述如下：
 
-$\lim\limits_{n\rightarrow\infty}{\sqrt[n]{a^n+b^n+c^n}}=max{\{a,b,c\}}$
+$\lim\limits_{n\rightarrow\infty}{\sqrt[n]{a^n+b^n+c^n}}=max{\\{a,b,c\\}}$
 
 
 ![outman](images/outman.jpg)
