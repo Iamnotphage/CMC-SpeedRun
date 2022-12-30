@@ -203,13 +203,16 @@ $\|x_n-x_m|<\epsilon$
 
 
 #### **Cauthy极限公式**
-若$\lim\limits_{n\rightarrow\infty}a_n=A$,则$\lim\limits_{n\rightarrow\infty}{\frac{a_1+a_2+...+a_n}{n}}=A$
+若
+$\lim\limits_{n\rightarrow\infty}a_n=A$
+,则
+$\lim\limits_{n\rightarrow\infty}{\frac{a_1+a_2+...+a_n}{n}}=A$
 
 
 #### **奥特曼法**
 百度贴吧流传已久的一种求极限方法，其本质是“抓大头”，也就是变化最快的一个。数学语言描述如下：
 
-$\lim\limits_{n\rightarrow\infty}{\sqrt[n]{a^n+b^n+c^n}}=max\{a,b,c\}$
+$\lim\limits_{n\rightarrow\infty}{\sqrt[n]{a^n+b^n+c^n}}=max{\{a,b,c\}}$
 
 
 ![outman](images/outman.jpg)
@@ -218,28 +221,53 @@ $\lim\limits_{n\rightarrow\infty}{\sqrt[n]{a^n+b^n+c^n}}=max\{a,b,c\}$
 
 俗称数列的L'Hospital定理
 
-(1) 定理一($\frac{*}{\infty}$型)
+(1) 定理一(
+$\frac{*}{\infty}$
+型)
 
-设数列$a_n,b_n$满足:
+设数列
+$a_n,b_n$
+满足:
 
-$b_n$严格单调递增
+$b_n$
+严格单调递增
 
-且$\lim\limits_{n\rightarrow\infty}{b_n}=+\infty$
+且
+$\lim\limits_{n\rightarrow\infty}{b_n}=+\infty$
 
-那么,有
-$\lim\limits_{n\rightarrow\infty}{\frac{a_n}{b_n}}={\lim\limits_{n\rightarrow\infty}\frac{a_{n+1}-a_n}{b_{n+1}-b_n}}=L,$其中$L$可以是有限数、$+\infty$、$-\infty$
-
-
-
-(2) 定理二 ($\frac{0}{0}$型)
-设数列$a_n,b_n$满足:
-
-$b_n$严格单调递减且趋于零
-
-且$\lim\limits_{n\rightarrow\infty}{a_n}=0$
 
 那么,有
-$\lim\limits_{n\rightarrow\infty}{\frac{a_n}{b_n}}={\lim\limits_{n\rightarrow\infty}\frac{a_{n+1}-a_n}{b_{n+1}-b_n}}=L,$其中$L$可以是有限数、$+\infty$、$-\infty$
+$\lim\limits_{n\rightarrow\infty}{\frac{a_n}{b_n}}={\lim\limits_{n\rightarrow\infty}\frac{a_{n+1}-a_n}{b_{n+1}-b_n}}=L,$
+其中
+$L$
+可以是有限数、
+$+\infty$
+、
+$-\infty$
+
+
+
+(2) 定理二 (
+$\frac{0}{0}$
+型)
+设数列
+$a_n,b_n$
+满足:
+
+$b_n$
+严格单调递减且趋于零
+
+且
+$\lim\limits_{n\rightarrow\infty}{a_n}=0$
+
+
+那么,有
+$\lim\limits_{n\rightarrow\infty}{\frac{a_n}{b_n}}={\lim\limits_{n\rightarrow\infty}\frac{a_{n+1}-a_n}{b_{n+1}-b_n}}=L,$
+其中
+$L$
+可以是有限数、
+$+\infty$、
+$-\infty$
 
 
 #### **中值定理求极限的方法**
@@ -251,7 +279,9 @@ $\lim\limits_{n\rightarrow\infty}{\frac{a_n}{b_n}}={\lim\limits_{n\rightarrow\in
 
 斯特林公式(Stirling公式)
 
->用一坨答辩来逼近$n!$
+>用一坨答辩来逼近
+$n!$
+
 
 $\lim\limits_{n\rightarrow\infty}{\frac{e^nn!}{n^n\sqrt{n}}}=\sqrt{2\pi}$
 
@@ -261,22 +291,40 @@ $\lim\limits_{n\rightarrow\infty}{\frac{e^nn!}{n^n\sqrt{n}}}=\sqrt{2\pi}$
 
 如果学过算法分析，理解起来很容易，其实就是时间复杂度的比较。
 
-当$n\rightarrow+\infty$时，有
+当
+$n\rightarrow+\infty$
+时，有
 
 $\ln n < n^{\alpha} < n^{\beta}<a^n<n!<n^n$
 
 $(0<\alpha<\beta, a>1)$
 
 所以可以直接有：
+
 $\lim\limits_{n\rightarrow\infty}{\frac{n!}{n^n}}=0$
 
 
 
 #### **Darboux定理**
 
-$f(x)$的导函数$f'(x)$在$[a,b]$上不一定连续，
+$f(x)$
+的导函数
+$f'(x)$
+在
+$[a,b]$
+上不一定连续，
 
-若$f'(x)=\alpha$,$f'(x)=\beta$,则$\exist\xi\in(a,b)$使$f'(\xi)$介于$\alpha,\beta$之间
+若
+$f'(x)=\alpha$
+,
+$f'(x)=\beta$
+,则
+$\exist\xi\in(a,b)$
+使
+$f'(\xi)$
+介于
+$\alpha,\beta$
+之间
 
 
 
@@ -290,9 +338,17 @@ $f(x)$的导函数$f'(x)$在$[a,b]$上不一定连续，
 #### **区间再现公式**
 
 
-1.$\int_{a}^{b}f(x)dx=\int_{a}^{b}f(a+b-x)dx$
+1.
+$\int_{a}^{b}f(x)dx=\int_{a}^{b}f(a+b-x)dx$
 
-2.若$f(x)$关于$x=\frac{a+b}{2}$对称，则$\int_{a}^{b}xf(x)dx=\frac{a+b}{2}\int_{a}^{b}f(x)dx$
+
+2.若
+$f(x)$
+关于
+$x=\frac{a+b}{2}$
+对称，则
+$\int_{a}^{b}xf(x)dx=\frac{a+b}{2}\int_{a}^{b}f(x)dx$
+
 
 特例，也是常见的公式：
 
@@ -300,11 +356,15 @@ $\int_{0}^{\pi}xf(sinx)dx=\frac{\pi}{2}\int_{0}^{\pi}f(sinx)dx$
 
 #### **Wallis公式**
 
-当$n$为偶数时，
+当
+$n$
+为偶数时，
 
 $\int_{0}^{\frac{\pi}{2}}sin^nxdx=\int_{0}^{\frac{\pi}{2}}cos^nxdx=\frac{n-1}{n}\frac{n-3}{n-2}......\frac{3}{4}\frac{1}{2}\frac{\pi}{2}$
 
-当$n$为奇数时，
+当
+$n$
+为奇数时，
 
 $\int_{0}^{\frac{\pi}{2}}sin^nxdx=\int_{0}^{\frac{\pi}{2}}cos^nxdx=\frac{n-1}{n}\frac{n-3}{n-2}......\frac{2}{3}$
 
@@ -315,7 +375,23 @@ $\int_{0}^{\frac{\pi}{2}}sin^nxdx=\int_{0}^{\frac{\pi}{2}}cos^nxdx=\frac{n-1}{n}
 #### **积分中值定理**
 
 **积分第一中值定理**
-若$f(x)$在闭区间$[a,b]$上连续，$g(x)$在$[a,b]$不变号，且$g(x)$在$[a,b]$上是可积的，则在$[a,b]$上至少存在一个点$\epsilon$,使得：
+若
+$f(x)$
+在闭区间
+$[a,b]$
+上连续，
+$g(x)$
+在
+$[a,b]$
+不变号，且
+$g(x)$
+在
+$[a,b]$
+上是可积的，则在
+$[a,b]$
+上至少存在一个点
+$\epsilon$
+,使得：
 
 $\int_{a}^{b}f(x)g(x)dx=f(\epsilon)\int_{a}^{b}g(x)dx$
 
@@ -360,7 +436,10 @@ $\int_{a}^{b}f(x)g(x)dx=f(\epsilon)\int_{a}^{b}g(x)dx$
 
 $y''+p(x)y'+q(x)y=0$
 
-已知一个特解$y_1$,则另一个线性无关的特解为$$y_2=y_1\int{\frac{1}{y_1^2}e^{-\int{p(x)dx}}}dx$$
+已知一个特解
+$y_1$
+,则另一个线性无关的特解为
+$$y_2=y_1\int{\frac{1}{y_1^2}e^{-\int{p(x)dx}}}dx$$
 
 证明：
 
