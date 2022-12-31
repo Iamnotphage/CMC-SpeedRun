@@ -681,7 +681,7 @@ $uOv$
 $x=x(u,v),y=y(u,v)$
 
 则Jacobi行列式
-$J=|\frac{\partial(x,y)}{\partial(u,v)}|=\left|\begin{array}{cccc} x_u  &  x_v  \\ y_u  &  y_v   \end{array}\right|$
+![Jacobi1](images/ykb1.png)
 
 则有
 $dxdy=|J|dudv$
@@ -718,17 +718,7 @@ $\iint_{D}f(x,y)dxdy=\iint_{D'}f[x(u,v),y(u,v)]\cdot {|J|}dudv$
 $x=r\cos \theta,y=r\sin \theta$
 
 于是
-$J=\left|
-\begin{array}{cccc} 
-    x_r  &  x_\theta  \\ 
-    y_r  &  y_\theta   
-\end{array}
-\right|=\left|
-\begin{array}{cccc} 
-    \cos \theta  &  -r\sin \theta  \\ 
-    \sin \theta  &  r\cos \theta   
-\end{array}
-\right|=r\cos ^2\theta+r\sin ^2\theta =r$
+![Jacobi2](images/ykb2.png)
 
 则有
 $dxdy=rdrd\theta$
