@@ -720,12 +720,14 @@ $J=\left|
     x_r  &  x_\theta  \\ 
     y_r  &  y_\theta   
 \end{array}
-\right|=\left|
+\right|=$
+$\left|
 \begin{array}{cccc} 
     \cos \theta  &  -r\sin \theta  \\ 
     \sin \theta  &  r\cos \theta   
 \end{array}
-\right|=r\cos ^2\theta+r\sin ^2\theta =r$
+\right|=$
+$r\cos ^2\theta+r\sin ^2\theta =r$
 
 则有
 $dxdy=rdrd\theta$
