@@ -678,7 +678,7 @@ $uOv$
 $x=x(u,v),y=y(u,v)$
 
 则Jacobi行列式
-$J=|\frac{\partial(x,y)}{\partial(u,v)}|=\left|\begin{array}{cccc} x_u  &  x_v  \\ y_u  &  y_v   \end{array}\right|$
+$J=|\frac{\partial(x,y)}{\partial(u,v)}|=\left|\begin{array}{cccc} x_u  &  x_v  \\ y_u  &  y_v   \end{array}|$
 
 则有
 $dxdy=|J|dudv$
