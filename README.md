@@ -681,7 +681,7 @@ $uOv$
 $x=x(u,v),y=y(u,v)$
 
 则Jacobi行列式
-![Jacobi1](images/ykb1.png)
+![Jacobi1](images/Jacobi1.jpg)
 
 则有
 $dxdy=|J|dudv$
@@ -718,7 +718,7 @@ $\iint_{D}f(x,y)dxdy=\iint_{D'}f[x(u,v),y(u,v)]\cdot {|J|}dudv$
 $x=r\cos \theta,y=r\sin \theta$
 
 于是
-![Jacobi2](images/ykb2.png)
+![Jacobi2](images/Jacobi2.jpg)
 
 则有
 $dxdy=rdrd\theta$
