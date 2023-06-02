@@ -92,6 +92,9 @@
 
 本文加入了适量emoji表情以增加可读性,请见谅。
 
+前排：如果Github你下载太慢，欢迎前往以下链接下载
+https://www.aliyundrive.com/s/qun3Q7sy5EG
+
 ## 🐹🐹情况
 下面介绍一下🐹🐹的情况。
 
