@@ -1,6 +1,6 @@
 # CMC-SpeedRun
 
-![](https://img.shields.io/github/repo-size/Iamnotphage/CMC-SpeedRun) ![](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue) ![](https://img.shields.io/github/stars/Iamnotphage/CMC-SpeedRun?style=social)
+![](https://img.shields.io/github/repo-size/Iamnotphage/CMC-SpeedRun) ![](https://img.shields.io/badge/license-CC0--1.0-blue) ![](https://img.shields.io/github/stars/Iamnotphage/CMC-SpeedRun?style=social)
 
 速通[全国大学生数学竞赛](http://www.cmathc.cn/)教程(非数学专业)
 
